@@ -23,6 +23,8 @@
         "stevebauman/purify": "6.0.2",
         "symfony/http-client": "6.3.7",
         "symfony/mailgun-mailer": "6.3.6",
+        "goshippo/shippo-php-client":"4.1",
+        "Aniket-IN/laravel-shiprocket":"5.2",
         "kingflamez/laravelrave": "dev-master"
     },
     "require-dev": {
